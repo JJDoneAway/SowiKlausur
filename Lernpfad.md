@@ -80,7 +80,28 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
   - *erörtern* = Pro UND Contra abwägen
   - *beurteilen / bewerten* = begründetes eigenes Urteil am Ende
 
+**🧰 DIE HÜLLE DER KLAUSUR — so ist JEDE Aufgabe gebaut** *(merk dir dieses Skelett wie den Stamm):*
+
+| Aufgabe | Operator | Was du tust | AFB | ~Punkte |
+|---|---|---|---|---|
+| **1** | *Beschreiben / Darstellen* | Fachwissen wiedergeben (keine Wertung) | I | ~24 |
+| **2a** | **Analysieren** | Position + Argumentation eines Textes | II | ~30 |
+| **2b** | *Überprüfen / Erläutern* | Aussagen am Material (Statistik/Text) prüfen | II | ~16 |
+| **3** | *Erörtern* ODER *Gestalten* | Urteil bilden ODER Produkt schreiben (z. B. Rede) | III | ~30 |
+| — | (alle) | Aufbau · Bezüge · Belege · Fachsprache · Sprache | Darstellung | **20** |
+
+Kern ist **fast immer ein Text** (Kommentar/Rede/Artikel), manchmal + Statistik. → **Aufgabe 2a (Textanalyse) kommt fast sicher** und ist reine Methode = sichere Punkte.
+
+**🧰 DIE 4 METHODEN — Kurz-Schemata** *(hierhin springst du bei jeder ✍️-Übung):*
+- **M1 Karikatur (4 Schritte):** 1 Beschreiben (sachlich) → 2 Deuten (Symbole, Stilmittel, Übertreibung) → 3 Einordnen (welches Problem?) → 4 Werten (Absicht + dein Urteil).
+- **M2 Erörterung (3 Schritte):** 1 Einleitung + Plan → 2 Pro UND Contra abwägen → 3 begründetes Urteil (Kriterien: Effizienz, soziale Gerechtigkeit, Nachhaltigkeit).
+- **M3 Statistik (2 Schritte):** 1 Beschreiben (Quelle, Zeit, Einheit, Zahlen) → 2 Interpretieren (Ergebnisse mit Zahlenbelegen + Grenzen der Aussagekraft).
+- **M4 Textanalyse (5 Schritte):** 1 Einordnen (Autor/Medium/Thema) → 2 Position bestimmen → 3 Begründungsgang (Problem→Ursache→Folgen→Forderung) → 4 Mittel der Leserlenkung (Sprache, Argumenttypen) → 5 Intention + Wirkung. *Tipp: Thesen in indirekter Rede.*
+
+**✍️ SO ÜBST DU:** Ab hier steht bei vielen Stationen eine **✍️ Übung** — eine Mini-Aufgabe im echten Klausur-Format, an genau dem Dokument der Station. **Schreib sie wirklich aus** (nicht nur denken). Welche Methode du brauchst, steht dabei — das Schema ist immer HIER in Station 0.
+
 **❓ Kontrollfragen:**
+- *Verstanden?* Nenne das 3-Aufgaben-Skelett (1 / 2a / 2b / 3) mit Operator und AFB.
 - *Verstanden?* Nenne die 4 Ecken des magischen Vierecks. Welche zwei stehen sich oft im Weg?
 - *Verstanden?* Was ist der Unterschied zwischen „erläutern" und „erörtern"?
 - *Verortet?* Warum heißt das Viereck „magisch" — und was hat das mit dem Stamm (Markt vs Staat) zu tun?
@@ -119,6 +140,8 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
 - *Verstanden?* Erkläre Produktionslücke an einem Bild (z. B. „Motor läuft nur auf halber Kraft").
 - *Verortet?* Warum ist eine Schwächephase *normal* und kein Weltuntergang — und warum ist Deutschlands Problem trotzdem tiefer?
 
+**✍️ Übung — Aufgabe-1-Typ (darstellen, AFB I):** Schreib aus dem Kopf: „Stellen Sie den Aufbau eines Konjunkturzyklus dar." 4 Phasen + Produktionspotenzial/-lücke, mit Fachbegriffen, ohne Wertung. → *Methode: Aufgabe 1 / Skelett in Station 0.*
+
 **✅ Kurz-gesagt-Check:** beantwortet *„Warum schwankt Wirtschaft?"*
 
 ---
@@ -147,6 +170,8 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
 - *Verstanden?* Warum sind *fallende* Preise gefährlich? Erkläre die Spirale in 3 Schritten.
 - *Verstanden?* Warum ist Stagflation eine „Zwickmühle"?
 - *Verortet?* Warum gehört dieses Thema direkt mit der EZB (Station 4) zusammen?
+
+**✍️ Übung — Karikatur-Typ:** Analysiere die Spritpreis-Karikatur in den 4 Schritten (M1). Schreib's aus und vermisch Beschreiben / Deuten / Werten NICHT. → *Methode M1 in Station 0.*
 
 **✅ Kurz-gesagt-Check:** beantwortet *„Wie entstehen Krisen?"* + *„Ist Inflation oder Deflation gefährlicher?"*
 
@@ -207,6 +232,8 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
 - *Verstanden?* Warum ist die Schuldenquote (statt absolute Schulden) aussagekräftiger?
 - *Verortet?* Wie hängt „marode Infrastruktur = auch eine Last" mit Generationengerechtigkeit zusammen? (→ Station 5)
 
+**✍️ Übung — Textanalyse-Typ (Aufgabe 2a, AFB II — DER häufigste Aufgabentyp!):** Nimm das Steuerberater-Interview und analysiere Position + Argumentation des Sprechers nach M4 (5 Schritte). Das ist die **wichtigste Übung der ganzen Klausur** — mach sie wirklich schriftlich. → *Methode M4 in Station 0.*
+
 **✅ Kurz-gesagt-Check:** beantwortet *„Wann sind Schulden problematisch? Wann sinnvoll?"*
 
 ---
@@ -238,6 +265,8 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
 - *Verstanden?* Warum löste das BVerfG-Urteil 2023 eine Krise aus?
 - *Verstanden?* Nenne je 2 Argumente von Befürwortern UND Kritikern.
 - *Verortet?* Ist die Schuldenbremse eher „Markt-Seite" oder „Staat-Seite" des Stamms? Warum?
+
+**✍️ Übung — Erörterungs-Typ (Aufgabe 3, AFB III):** „Erörtern Sie, ob die Schuldenbremse eher Stabilitätsanker oder Investitionshemmnis ist." Nutze die Pro/Contra aus den Kernideen, ende mit begründetem Urteil (M2). → *Methode M2 in Station 0.*
 
 **✅ Kurz-gesagt-Check:** beantwortet *„Ist eine Reform der Schuldenbremse notwendig?"* + *„Was bedeutet Generationengerechtigkeit?"*
 
@@ -391,6 +420,8 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
 - *Verstanden?* Stelle je 1 Argument „Sozialstaat überfordert" vs. „besser als sein Ruf" gegenüber.
 - *Verortet?* Wie konkurriert der Sozialstaat mit der Schuldenbremse (Station 5)?
 
+**✍️ Übung — Textanalyse + Statistik:** (a) Analysiere EINE der beiden WELT-Positionen („überfordert" ↔ „besser als sein Ruf") nach M4. (b) Beschreibe das Schaubild Sozialversicherung nach M3 (Quelle, Kategorien, Aussage). → *Methoden M4 + M3 in Station 0.*
+
 **✅ Kurz-gesagt-Check:** beantwortet *„Wo liegen Grenzen staatlicher Steuerung?"* + *„Was bedeutet Generationengerechtigkeit?"*
 
 ---
@@ -442,6 +473,8 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
 - *Verstanden?* Warum behindert Bürokratie den Binnenmarkt?
 - *Verortet?* Welche Denkschule (Ast 3) steckt hinter „Bürokratieabbau"?
 
+**✍️ Übung — Textanalyse-Typ (2a, Wiederholung):** Analysiere den EU-Binnenmarkt-Text nach M4. Achte diesmal besonders auf Schritt 4: sprachliche Mittel der Leserlenkung. → *Methode M4 in Station 0.*
+
 **✅ Kurz-gesagt-Check:** stützt *„Welche Rolle spielen Markt und Wettbewerb?"* (auf EU-Ebene)
 
 ---
@@ -467,6 +500,8 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
 **❓ Kontrollfragen:**
 - *Verstanden?* Was zeigt die Aufzug-Karikatur über Chancen in Deutschland?
 - *Verortet?* Wie passt „soziale Ungleichheit" in den Stamm (Markt effizient ↔ Staat gerecht)?
+
+**✍️ Übung — Karikatur + Erörtern (Achtung: das ist DAS Altklausur-Thema!):** (a) Aufzug-Karikatur nach M1. (b) „Erörtern Sie, ob der Staat soziale Ungleichheit stärker ausgleichen soll." — Markt-Effizienz gegen soziale Gerechtigkeit (M2). → *Methoden M1 + M2 in Station 0.*
 
 **✅ Kurz-gesagt-Check:** liefert Argumente für *„Markt effizienter, aber sozial ungerechter?"*
 
@@ -532,6 +567,8 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
 - *Verstanden?* Was ist der Unterschied zwischen „Meinung" und „Urteil"?
 - *Verortet?* Nimm 1 Bewertungsfrage und ordne ihr die richtigen Stationen zu.
 
+**✍️ Übung — DIE Generalprobe (alle Aufgabentypen auf einmal):** Schreib eine ganze Altklausur (2021 ODER 2022) unter Zeit — mit dem 3-Aufgaben-Skelett aus Station 0. Die 2022er enthält die *Gestalten*-Variante (Rede schreiben), die 2021er die *Erörtern*-Variante + eine Statistik. Danach mit dem Erwartungshorizont/Lösungsteil der PDF abgleichen. Das trainiert **alle Aufgabentypen + die 20 Darstellungspunkte** zusammen.
+
 **✅ Kurz-gesagt-Check:** beantwortet *„Wie lassen sich Positionen begründet bewerten?"*
 
 ---
@@ -567,7 +604,26 @@ Alles, was du lernst, ist eine Antwort auf: **Wann hat welche Seite recht?**
 4. Station 7 + 8 + 9 (Keynes vs. Neoklassik/Friedman) → das Herzstück
 5. Station 14 + 15 + 16 (Urteilen + Karikaturen) → die Punkte
 
+**Und unbedingt schreiben:** die ✍️-Übungen 4 → 5 → 15 (Textanalyse, Erörtern, Probeklausur). Methode ohne Schreiben bringt keine Punkte.
+
 **Alles andere (🟡/🟢) = nur wenn diese 10 sitzen.**
+
+---
+
+# ✍️ ÜBUNGS-CHECKLISTE — schreiben, nicht nur lesen
+
+*Jede ✍️-Aufgabe ist echtes Klausur-Format. Hak ab, was du **schriftlich** gemacht hast:*
+
+- ☐ Station 1 — *darstellen* (Konjunkturzyklus) — AFB I
+- ☐ Station 2 — Karikatur (Spritpreise) — M1
+- ☐ **Station 4 — Textanalyse 2a (Pflicht, häufigster Typ!)** — M4
+- ☐ Station 5 — Erörtern (Schuldenbremse) — M2
+- ☐ Station 10 — Textanalyse + Statistik — M4 + M3
+- ☐ Station 12 — Textanalyse 2a (Wiederholung) — M4
+- ☐ Station 13 — Karikatur + Erörtern (Altklausur-Thema!) — M1 + M2
+- ☐ **Station 15 — ganze Probeklausur (Generalprobe)**
+
+**Reihenfolge bei wenig Zeit:** 4 → 5 → 15. Das deckt die teuersten Aufgabentypen (Textanalyse + Erörtern + Vollklausur) ab.
 
 ---
 
