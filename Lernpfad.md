@@ -10,6 +10,74 @@
 
 ---
 
+# 📅 DEIN 6-TAGE-PLAN — Klausur **Freitag, 3.7.**
+
+> **Regel Nr. 1:** Jeden Tag genau EIN Tagesziel. Mehr nicht. Das aufgeräumte Bild entsteht Schicht für Schicht.
+
+| Tag | Datum | 🎯 Fokus | Stationen | ✍️ Schreiben |
+|---|---|---|---|---|
+| **1** | Sa 27.6. *(heute, ruhig)* | Das große Bild + Klausur-Format | Stamm · Baumkarte · **Station 0** | — (nur Videos) |
+| **2** | So 28.6. | Das Problem: warum schwankt Wirtschaft? | 1 · 2 · 3 | St 1 + St 2 |
+| **3** | Mo 29.6. | Die Werkzeuge: Geld & Schulden | 4 · 5 | **St 4 (Textanalyse!)** + St 5 |
+| **4** | Di 30.6. | Das Herzstück: die Denkschulen | 6 · 7 · 8 · 9 | Tabelle aus Kopf |
+| **5** | Mi 1.7. | Die Dauerlasten | 10 · 11 · 12 · 13 | St 10 + St 13 |
+| **6** | Do 2.7. | Urteilen + **GENERALPROBE** | 14 · 15 · 16 | **St 15: ganze Altklausur** |
+| 🎯 | **Fr 3.7.** | **KLAUSUR** | nur 10 Min aufwärmen | — |
+
+---
+
+### ▢ TAG 1 — Sa 27.6. *(heute, locker, ~1,5–2 h)*
+- 🎯 **Ziel:** Den ganzen Baum einmal sehen + verstehen, wie die Klausur gebaut ist. Kein Auswendiglernen.
+- 📖 **Lesen:** Stamm → Baumkarte → **Station 0** (Werkzeugkasten: 3-Aufgaben-Skelett + die 4 Methoden).
+- 🎥 **Entspannung:** die 3 Videos aus der Einstieg-Box (Sofa, kein Stift).
+- ✅ **Tages-Check:** Kannst du den Stamm-Satz + das 3-Aufgaben-Skelett frei aufsagen?
+
+### ▢ TAG 2 — So 28.6. *(~4 h, Wochenende)*
+- 🎯 **Ziel:** Verstehen, warum Wirtschaft schwankt und wie Krisen entstehen.
+- 📖 **Lesen:** Station 1 (Konjunktur) · 2 (Inflation/Deflation/Stagflation) · 3 (EZB).
+- ✍️ **Schreiben:** St 1 (Konjunkturzyklus *darstellen*) · St 2 (Spritpreis-Karikatur, M1).
+- ✅ **Check:** *Warum schwankt Wirtschaft? · Wie entstehen Krisen? · Was kann die Zentralbank tun?*
+
+### ▢ TAG 3 — Mo 29.6. *(nachmittags, ~3–4 h)*
+- 🎯 **Ziel:** Die zwei Hebel des Staates + das große Streitthema Schuldenbremse.
+- 📖 **Lesen:** Station 4 (Staatshaushalt) · 5 (Schuldenbremse).
+- ✍️ **Schreiben:** **St 4 (Textanalyse 2a — die wichtigste Übung!)** · St 5 (Schuldenbremse *erörtern*).
+- ✅ **Check:** *Wann sind Schulden problematisch? Wann sinnvoll?*
+
+### ▢ TAG 4 — Di 30.6. *(nachmittags, ~3–4 h)*
+- 🎯 **Ziel:** Das Herzstück — wer glaubt was (Markt ↔ Staat).
+- 📖 **Lesen:** Station 6 (Smith) · 7 (Neoklassik vs. Keynes) · 8 (Keynes-Krisenpolitik) · 9 (Friedman).
+- ✍️ **Schreiben:** die Neoklassik-vs-Keynes-Tabelle **aus dem Kopf** + Schulen den Schuldenbremse-Lagern zuordnen.
+- 🎥 **Video:** Adam Smith · Keynes vs. Monetarismus · Keynes vs. Friedman.
+- ✅ **Check:** *Was kann der Staat tun? · Welche Politik passt zur Rezession?*
+
+### ▢ TAG 5 — Mi 1.7. *(nachmittags, ~3–4 h)*
+- 🎯 **Ziel:** Der langfristige Hintergrund (Sozialstaat, Demografie, EU, Ungleichheit).
+- 📖 **Lesen:** Station 10 (Sozialstaat/Renten) · 11 (Demografie) · 12 (EU) · 13 (Ungleichheit). *St 11/12 zügig.*
+- ✍️ **Schreiben:** St 10 (Textanalyse + Statistik) · St 13 (Karikatur + Erörtern — **Altklausur-Thema!**). *St 12 nur wenn Zeit.*
+- ✅ **Check:** *Grenzen staatlicher Steuerung? · Generationengerechtigkeit? · Handeln unter Unsicherheit?*
+
+### ▢ TAG 6 — Do 2.7. *(nachmittags, ~3–4 h) — der wichtigste Tag*
+- 🎯 **Ziel:** Alles zusammenführen + einmal unter echten Bedingungen schreiben.
+- 📖 **Lesen:** Station 14 (Markt vs. Staat) · 15 (Urteilen) · 16 (Karikaturen) — zügig, als Wiederholung.
+- ✍️ **GENERALPROBE:** eine ganze Altklausur (2021 ODER 2022) **unter Zeit** (~2 h), dann mit dem Lösungsteil abgleichen.
+- ✅ **Finaler Selbst-Test:** die „Kurz gesagt"-Checkliste ganz unten — alle 10 Häkchen?
+- 😴 **Wichtig:** abends spätestens 21:30 Schluss. Nicht mehr stopfen. Schlaf schlägt Cramming.
+
+### 🎯 Fr 3.7. — KLAUSURTAG
+- Morgens **10 Min aufwärmen:** Stamm-Satz + 3-Aufgaben-Skelett + M4/M2 überfliegen. **Kein neuer Stoff.**
+- In der Klausur: erst alle Aufgaben + Operatoren lesen → Zeit grob nach Punkten einteilen (24/46/30) → losschreiben. Du hast den Baum im Kopf. 🌳
+
+---
+
+### 🧠 ADS-Regeln für die 6 Tage (kurz)
+- **Rhythmus:** 25 Min fokussiert / 5 Min Pause. Handy in einen anderen Raum.
+- **Plan B (wenn ein Tag platzt):** Nur die 🔴-Station + eine ✍️-Übung des Tages machen. **Nicht nachholen, nicht spiralen** — am nächsten Tag normal weiter.
+- **Belohnung:** Nach jeder ✍️-Übung etwas Schönes (Bewegung, Musik, Snack).
+- **Anker:** Wenn du dich verlierst → 30 Sek zurück zum Stamm, dann weiter.
+
+---
+
 ## 🌳 DER STAMM — Die eine Frage hinter allem
 
 > ### „Wie viel **Markt** und wie viel **Staat** braucht eine Volkswirtschaft?"
